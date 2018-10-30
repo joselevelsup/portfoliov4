@@ -1,0 +1,19 @@
+{
+  "name": "portfolio-template",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Portfolio number 4",
+  "scripts": {
+    "start": "node server/server.js",
+    "dev": "gulp dev"
+  },
+  "author": "joselevelsup",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-nodemon": "^2.2.1"
+  }
+}
